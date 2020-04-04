@@ -1,0 +1,2 @@
+[pre_checks_ocp4_without_dns]
+10.10.14.217	ansible_connection=ssh ansible_user=root
